@@ -9,17 +9,17 @@
 | GPU                     | Mali-T624                             |
 | Memory                  | 2GB RAM                               |
 | Shipped Android Version | (4.3)                                 |
-| Storage                 | 16 GB                                 |
+| Storage                 | 8 GB                                  |
 | MicroSD                 | Up to 64GB                            |
-| Battery                 | 3100 mAh                              |
-| Dimensions              | 148.4 x 77.4 x 8.6 mm                 |
+| Battery                 | 2430 mAh                              |
+| Dimensions              | 137.5 x 70.8 x 16.6 mm                |
 | Display                 | 720 x 1280 pixels                     |
-| Camera                  | 8 MP, 3264 × 2448 pixels              |
-| Release Date            | January 2014                          |
+| Camera                  | 20.7 MP, 5184 × 3888 pixels           |
+| Release Date            | June 2014                             |
 
 ## Device Picture 
 
-![Sasmung Galaxy Note 3 Neo](http://drop.ndtv.com/TECH/product_database/images/1312014111358AM_635_Samsung_Galaxy_Note3_Neo.jpeg "Sasmung Galaxy Note 3 Neo")
+![Samsung Galaxy K Zoom](https://btest.ru/images/Fotki/smartfon/samsung/SM_C115/Image_68.jpg)
 
 ## Copyright
 
