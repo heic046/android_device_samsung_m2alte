@@ -8,7 +8,7 @@
 | Chipset                 | Exynos 5 Hexa 5260                    |
 | GPU                     | Mali-T624                             |
 | Memory                  | 2GB RAM                               |
-| Shipped Android Version | (4.3)                                 |
+| Shipped Android Version | 4.4.2                                 |
 | Storage                 | 8 GB                                  |
 | MicroSD                 | Up to 64GB                            |
 | Battery                 | 2430 mAh                              |
