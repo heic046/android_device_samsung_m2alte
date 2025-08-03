@@ -10,7 +10,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/bluetooth/bt_vendor.conf:system/etc/bluetooth/bt_vendor.conf
 
 # Overlay 
-DEVICE_PACKAGE_OVERLAYS += device/samsung/hllte/overlay
+DEVICE_PACKAGE_OVERLAYS += device/samsung/m2alte/overlay
 
 PRODUCT_COPY_FILES += \
      $(LOCAL_PATH)/manifest.xml:system/vendor/manifest.xml
