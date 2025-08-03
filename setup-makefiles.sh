@@ -18,7 +18,7 @@
 set -e
 
 # Required!
-export DEVICE=hllte
+export DEVICE=m2alte
 export DEVICE_COMMON=smdk5260-common
 export VENDOR=samsung
 
