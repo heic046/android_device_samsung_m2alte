@@ -1,5 +1,5 @@
 # Local Path
-LOCAL_PATH := device/samsung/hllte
+LOCAL_PATH := device/samsung/m2alte
 
 # Ramdisk
 PRODUCT_PACKAGES += \
